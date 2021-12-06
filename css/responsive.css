@@ -1,0 +1,418 @@
+@media (min-width:320px)and (max-width:575px){
+    nav img{
+        width: 70%;
+    }
+    button i{
+        color:#fff;
+    }
+    .navbar-nav {
+        text-align: center !important;
+        background: #000;
+        padding: 10px 0;
+    }
+    nav ul li a:hover::after {
+        width: 0%;
+    }
+    #banner-part .overlay .text h2 {
+        font-size: 25px;
+    }
+    #banner-part .overlay .text h1 {
+        font-size: 45px;
+    }
+    #banner-part .overlay .text p {
+        width: auto;
+    }
+    #banner-part .overlay .text a {
+        margin-top: 10px;
+        padding: 10px;
+        font-size: 14px;
+    }
+    .carousel-control-next, .carousel-control-prev {
+        position: absolute;
+        top: auto;
+        bottom: 24px;
+    }
+    .carousel-control-next{
+        right:90px !important;
+    }
+    .carousel-control-prev{
+        left:90px !important;
+    }
+    #banner-part .carousel-item {
+        height: 400px;
+    }
+    #banner-shape {
+      display:none;
+    }
+    #about-part {
+        margin-top:20px;
+    }
+    .title p {
+        width: auto;
+        line-height: 25px;
+    }
+    #about-part .item2 {
+        left:0;
+        text-align: center;
+        margin: 10px 0;
+    
+    }
+    #about-part .item3 {
+        left:0;
+        text-align: center;
+        margin: 10px 0;
+    }
+    #about-part .item4 {
+        left:0;
+        text-align: center;
+        margin: 10px 0;
+    }
+    #about-part .item1 .shape {
+   display: none
+    }
+    #about-part .item2 .shape {
+        display: none
+    }
+     #about-part .item3 .shape {
+        display: none
+    }
+    #about-part .item4 .shape {
+        display: none
+    }
+    #about-part .item4 i {
+     display: none;
+    }
+    #about-part .item3 i {
+        display: none;
+       }
+       #about-part .item2 i {
+        display: none;
+       }
+       #about-part .item1 i {
+        display: none;
+       }
+
+    #about-part .round {
+        width: 280px;
+        height: 280px;
+  
+    }
+    #about-part .s-round {
+        width: 260px;
+        height: 260px;
+
+    }
+    #service-part .prev {
+        left: 40%;
+        top: 446px;
+    }
+    #service-part .next {
+        bottom:-50px;
+        left: 60%;
+        
+    }
+    #service-part .slick-center .right {
+        filter: drop-shadow(0 0 0.0rem rgb(80, 78, 78));
+    }
+    #portfolio-shape {
+    display: none;
+    }
+    #portfolio-part {
+      margin-top: 20px;
+    }
+    #portfolio1-shape {
+        display: none;
+    }
+    #service-part .line {
+        display: none;
+    }
+    #service-part .service:nth-child(2n+1) .main {
+        flex-direction: column;
+    }
+    #service-part .main {
+        flex-direction: column;
+    }
+    #service-part .right {
+        width: 100%;
+      
+    }
+    #service-part .left {
+        width: 100%;
+    }
+    #service-part .center{
+        width: 100%;
+    }
+    #service-part .service:nth-child(2n+1) .left {
+        justify-content: center;
+  
+    }
+    #service-part .center .round {
+  
+        margin: 15px 0;
+    }
+    #service-part .left {
+        justify-content: center;
+    }
+    #pricing-part .item {
+        margin:15px 0;
+    }
+    #counter-shape {
+      display: none;
+    }
+    #counter-part {
+       
+        margin-top: 50px;
+    }
+    #counter-part .angel {
+        transform: rotate(0deg);
+    }
+    #counter-part .item {
+        margin: 15px 0;
+    }
+    #counter-part .item h1 {
+        color: #ffffff;
+        font-size: 50px;
+        font-family: 'Raleway', sans-serif;
+        font-weight: 500;
+    }
+    #counter-part .item h2 {
+        color: #ffffff;
+        font-size: 14px;
+        font-family: 'Raleway', sans-serif;
+        font-weight: 500;
+    }
+    #down-shape {
+        display: none;
+    }
+    #slider-shape {
+        display: none;
+    }
+    #slider-part {
+        margin-top: 1401px;
+    }
+    .baka {
+        transform: rotate(0deg);
+    }
+    
+    #footer{
+        clip-path: polygon(0 0, 100% 0, 100% 100%, 0% 100%);
+    }
+    .footer-border {
+        display: none;
+    }
+    .f-socail-item {
+        margin: 0 5px;
+
+    }
+  
+}
+@media (min-width:576px)and (max-width:767px){
+    nav img{
+        width: 80%;
+    }
+    button i{
+        color:#fff;
+    }
+    .navbar-nav {
+        text-align: center !important;
+        background: #000;
+        padding: 10px 0;
+    }
+    nav ul li a:hover::after {
+        width: 0%;
+    }
+    #banner-part .overlay .text h2 {
+        font-size: 25px;
+    }
+    #banner-part .overlay .text h1 {
+        font-size: 50px;
+    }
+    #banner-part .overlay .text p {
+        width: auto;
+    }
+    #banner-part .overlay .text a {
+        margin-top: 10px;
+        padding: 10px;
+        font-size: 14px;
+    }
+    .carousel-control-next, .carousel-control-prev {
+        position: absolute;
+        top: auto;
+        bottom: 24px;
+    }
+    .carousel-control-next{
+        right:90px !important;
+    }
+    .carousel-control-prev{
+        left:90px !important;
+    }
+    #banner-part .carousel-item {
+        height: 400px;
+    }
+    #banner-shape {
+      display:none;
+    }
+    #about-part {
+        margin-top:20px;
+    }
+    .title p {
+        width: auto;
+        line-height: 25px;
+    }
+    #about-part .item2 {
+        left:0;
+        text-align: center;
+        margin: 10px 0;
+    
+    }
+    #about-part .item3 {
+        left:0;
+        text-align: center;
+        margin: 10px 0;
+    }
+    #about-part .item4 {
+        left:0;
+        text-align: center;
+        margin: 10px 0;
+    }
+    #about-part .item1 .shape {
+   display: none
+    }
+    #about-part .item2 .shape {
+        display: none
+    }
+     #about-part .item3 .shape {
+        display: none
+    }
+    #about-part .item4 .shape {
+        display: none
+    }
+    #about-part .item4 i {
+     display: none;
+    }
+    #about-part .item3 i {
+        display: none;
+       }
+       #about-part .item2 i {
+        display: none;
+       }
+       #about-part .item1 i {
+        display: none;
+       }
+
+    #about-part .round {
+        width: 280px;
+        height: 280px;
+  
+    }
+    #about-part .s-round {
+        width: 260px;
+        height: 260px;
+
+    }
+    #service-part .prev {
+
+        top: 757px;
+        left: 40%;
+     
+    }
+    #service-part .next {
+        bottom:-50px;
+        left: 60%;
+        
+    }
+    #service-part .slick-center .right {
+        filter: drop-shadow(0 0 0.0rem rgb(80, 78, 78));
+    }
+    #portfolio-shape {
+    display: none;
+    }
+    #portfolio-part {
+      margin-top: 20px;
+    }
+    #portfolio1-shape {
+        display: none;
+    }
+    #service-part .line {
+        display: none;
+    }
+    #service-part .service:nth-child(2n+1) .main {
+        flex-direction: column;
+    }
+    #service-part .main {
+        flex-direction: column;
+    }
+    #service-part .right {
+        width: 100%;
+      
+    }
+    #service-part .left {
+        width: 100%;
+    }
+    #service-part .center{
+        width: 100%;
+    }
+    #service-part .service:nth-child(2n+1) .left {
+        justify-content: center;
+  
+    }
+    #service-part .center .round {
+  
+        margin: 15px 0;
+    }
+    #service-part .left {
+        justify-content: center;
+    }
+    #pricing-part .item {
+        margin:15px 0;
+    }
+    #counter-shape {
+      display: none;
+    }
+    #counter-part {
+       
+        margin-top: 50px;
+    }
+    #counter-part .angel {
+        transform: rotate(0deg);
+    }
+    #counter-part .item {
+        margin: 15px 0;
+    }
+    #counter-part .item h1 {
+        color: #ffffff;
+        font-size: 50px;
+        font-family: 'Raleway', sans-serif;
+        font-weight: 500;
+    }
+    #counter-part .item h2 {
+        color: #ffffff;
+        font-size: 14px;
+        font-family: 'Raleway', sans-serif;
+        font-weight: 500;
+    }
+    #down-shape {
+        display: none;
+    }
+    #slider-shape {
+        display: none;
+    }
+    #slider-part {
+        margin-top: 500px;
+    }
+    .baka {
+        transform: rotate(0deg);
+    }
+    
+    #footer{
+        clip-path: polygon(0 0, 100% 0, 100% 100%, 0% 100%);
+    }
+    .footer-border {
+        display: none;
+    }
+    .f-socail-item {
+        margin: 0 5px;
+
+    }
+  
+}
