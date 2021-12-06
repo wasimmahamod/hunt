@@ -605,7 +605,7 @@ left:-20px;
     border-radius: 50%;
     font-size: 20px;
     position: absolute;
-    top: -50px;
+    bottom: 740px;
     left: 50%;
     transform: translateX(-50%);
     transition: .4s;

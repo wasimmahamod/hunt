@@ -104,7 +104,8 @@
     }
     #service-part .prev {
         left: 40%;
-        top: 446px;
+        /* top: 446px; */
+        bottom: -50px;
     }
     #service-part .next {
         bottom:-50px;
@@ -311,10 +312,9 @@
 
     }
     #service-part .prev {
-
-        top: 757px;
         left: 40%;
-     
+        /* top: 446px; */
+        bottom: -50px;
     }
     #service-part .next {
         bottom:-50px;
